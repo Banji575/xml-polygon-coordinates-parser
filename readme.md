@@ -18,7 +18,7 @@ Ensure your project directory has the following structure:
 project/
 ├── input/
 ├── output/
-├── parser.js
+├── xmlParcer.js
 └── package.json
 ```
 
@@ -32,7 +32,7 @@ project/
 To run the script, navigate to your project's root directory in the terminal and execute:
 
 ```bash 
-node parser.js
+node xmlParcer.js
 ```
 
 
